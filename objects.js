@@ -3,7 +3,7 @@ var playlist = {
   'Pink': "I am here" 
 };
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[Whithey] = "I will always love you"
+  playlist[Whitney] = "I will always love you"
   return playlist
 }
 function removeFromPlaylist(playlist, artistName) {
